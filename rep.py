@@ -1,0 +1,1 @@
+print("thasni"*5)
