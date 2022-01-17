@@ -1,3 +1,4 @@
+
 l1=[1,2,4,5]
 l2=[6,7,8,3]
 print(l1)
@@ -14,3 +15,4 @@ else:
     print("not common elements")
                 
             
+

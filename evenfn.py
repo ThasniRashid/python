@@ -1,3 +1,4 @@
+
 a=int(input("Enter anumber: "))
 def even(x):
     if x%2==0:
@@ -5,4 +6,5 @@ def even(x):
     else:
         print(x,"is odd")
 even(a)
+
 

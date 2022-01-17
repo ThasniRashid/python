@@ -7,3 +7,4 @@ def digit(s):
         s=s//10
     print("Digit sum= ",sum)
 digit(n)
+
